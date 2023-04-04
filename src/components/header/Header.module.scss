@@ -1,11 +1,15 @@
 @import '../../styles/settings.scss';
+@import '../../styles/typography.scss';
+
 
 .logo{
     text-align: center;
+    padding: 90px;
 }
 
 .mainTitle{
     font-family: $font-text-first;
-    font-size: 40px;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 60px;
     font-weight: 200;
 }

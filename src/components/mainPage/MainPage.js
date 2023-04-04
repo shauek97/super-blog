@@ -5,6 +5,8 @@ function MainPage() {
     return (
         <>
         <Article />
+        <Article />
+        <Article />
         </>
     );
   }

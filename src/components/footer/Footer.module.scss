@@ -1,8 +1,12 @@
-.rightsbox{
+@import '../../styles/settings.scss';
+
+.footerBox{
     
 }
 
 .rights {
     font-size: 20px;
     text-align: center;
+    font-family: $font-text-first;
+    font-weight: 200;
 }
