@@ -2,7 +2,7 @@ import styles from './Footer.module.scss'
 
 function Footer() {
     return (
-      <div>
+      <div className={styles.rightsbox}>
       <h1 className={styles.rights}>All rights reserved</h1>
       </div>
     );

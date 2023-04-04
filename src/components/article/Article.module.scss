@@ -1,0 +1,33 @@
+@import '../../styles/settings.scss';
+
+.titlebox{
+    font-size: 24px;
+    color: black;
+    width: 60%;
+    min-height: 20px;
+    background-color: white;
+    margin: 5px auto;
+    border-radius: 10px 10px 0 0;
+}
+
+.contentbox{
+
+    color: black;
+    width:60%;
+    min-height: 50px;
+    background-color: white;
+    margin: 5px auto;
+    border-radius: 0 0 10px 10px;
+}
+
+.title{
+    font-family: $font-text-second;
+    padding: 10px;
+    margin:0;
+}
+
+.content{
+    font-family: $font-text-second;
+    padding: 20px;
+    margin:0;
+}

@@ -1,9 +1,10 @@
-
+import styles from './MainPage.module.scss'
+import Article from './../article/Article.js'
 
 function MainPage() {
     return (
         <>
-        <h2>sadasd</h2>
+        <Article />
         </>
     );
   }
