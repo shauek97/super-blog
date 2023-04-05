@@ -1,12 +1,14 @@
 @import '../../styles/settings.scss';
 
 .footerBox{
-    
+    width: 1000px;
+    padding: 70px 0;
+    margin: 0 auto;
 }
 
 .rights {
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     font-family: $font-text-first;
-    font-weight: 200;
+    font-weight: 300;
 }

@@ -9,6 +9,9 @@
     background-color: white;
     margin: 5px auto;
     border-radius: 10px 10px 0 0;
+    opacity: 80%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .contentbox{
@@ -18,16 +21,26 @@
     background-color: white;
     margin: 5px auto;
     border-radius: 0 0 10px 10px;
+    opacity: 80%;
 }
 
 .title{
     font-family: $font-text-first;
+    font-size: 32px;
+    padding: 10px;
+    margin:0;
+}
+
+.date{
+    font-family: $font-text-first;
+    font-size: 32px;
     padding: 10px;
     margin:0;
 }
 
 .content{
-    font-family: $font-text-first;
+    font-family: $font-text-second;
+    font-size: 24px;
     padding: 20px;
     margin:0 0 100px 0;
 }

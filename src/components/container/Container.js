@@ -8,7 +8,7 @@ function Container() {
         <div className={styles.container}>
             <Header />
             <MainPage />
-            <Footer />
+            
         </div>
     );
   }

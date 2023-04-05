@@ -4,6 +4,9 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(bali.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     object-fit: cover;
     font-size: ($base-size * 1.1);
     color: $color-light;
