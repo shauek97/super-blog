@@ -6,10 +6,9 @@
     color: black;
     width: 60%;
     min-height: 20px;
-    background-color: white;
+    background: rgba(255,255,255,0.8);
     margin: 5px auto;
     border-radius: 10px 10px 0 0;
-    opacity: 80%;
     display: flex;
     justify-content: space-between;
 }
@@ -18,10 +17,10 @@
     color: black;
     width:60%;
     min-height: 50px;
-    background-color: white;
+    background: rgba(255,255,255,0.8);
     margin: 5px auto;
     border-radius: 0 0 10px 10px;
-    opacity: 80%;
+    
 }
 
 .title{
