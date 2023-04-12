@@ -4,7 +4,7 @@ function Article() {
     return (
       <div>
       <div className={styles.titlebox}>
-      <h1 className={styles.title}>Lorem ipsum</h1>
+      <h1 className={styles.title}>LOREM IPSUM</h1>
       <h2 className={styles.date}>03.04.2023</h2>
       </div>
       <div className={styles.contentbox}>
